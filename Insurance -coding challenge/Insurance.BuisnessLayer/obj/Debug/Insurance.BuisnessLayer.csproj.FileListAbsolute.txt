@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\bin\Debug\Insurance.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\bin\Debug\Insurance.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\obj\Debug\Insurance.BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\obj\Debug\Insurance.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\obj\Debug\Insurance.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\Insurance.BuisnessLayer\obj\Debug\Insurance.BuisnessLayer.pdb

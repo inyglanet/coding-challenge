@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\Insurance.Entity\bin\Debug\Insurance.Entity.dll
+C:\Users\ELCOT\source\repos\Insurance.Entity\bin\Debug\Insurance.Entity.pdb
+C:\Users\ELCOT\source\repos\Insurance.Entity\obj\Debug\Insurance.Entity.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\Insurance.Entity\obj\Debug\Insurance.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Insurance.Entity\obj\Debug\Insurance.Entity.dll
+C:\Users\ELCOT\source\repos\Insurance.Entity\obj\Debug\Insurance.Entity.pdb
