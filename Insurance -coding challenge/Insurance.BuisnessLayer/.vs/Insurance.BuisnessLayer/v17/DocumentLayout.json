@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\",
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\repository\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\repository\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:repository\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\onedrive\\\u6587\u6863\\coding challenge\\insurance -coding challenge\\insurance.buisnesslayer\\exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DBConnection.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
               "RelativeDocumentMoniker": "Util\\DBConnection.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
               "RelativeToolTip": "Util\\DBConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T06:32:23.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PolicyAlreadyExistException.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
               "RelativeDocumentMoniker": "Exceptions\\PolicyAlreadyExistException.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
               "RelativeToolTip": "Exceptions\\PolicyAlreadyExistException.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,55 +64,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "InsuranceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
               "RelativeDocumentMoniker": "Repository\\InsuranceRepository.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
               "RelativeToolTip": "Repository\\InsuranceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T06:23:30.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InvalidInputException.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\InvalidInputException.cs",
-              "RelativeDocumentMoniker": "Exceptions\\InvalidInputException.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\InvalidInputException.cs",
-              "RelativeToolTip": "Exceptions\\InvalidInputException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:22:01.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PolicyNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\PolicyNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\PolicyNotFoundException.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\PolicyNotFoundException.cs",
               "RelativeToolTip": "Exceptions\\PolicyNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:19:48.325Z",
+              "WhenOpened": "2024-10-15T06:19:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Service\\IInsuranceService.cs",
+              "RelativeDocumentMoniker": "Service\\IInsuranceService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Service\\IInsuranceService.cs",
+              "RelativeToolTip": "Service\\IInsuranceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:14:08.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IInsuranceService.cs",
-              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Service\\IInsuranceService.cs",
-              "RelativeDocumentMoniker": "Service\\IInsuranceService.cs",
-              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Service\\IInsuranceService.cs",
-              "RelativeToolTip": "Service\\IInsuranceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\OneDrive\\\u6587\u6863\\coding challenge\\Insurance -coding challenge\\Insurance.BuisnessLayer\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:14:08.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T06:22:01.408Z"
             }
           ]
         }

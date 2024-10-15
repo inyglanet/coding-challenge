@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policyalreadyexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\policynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\repository\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\insurance.buisnesslayer\\service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43C9C30-7DAA-48ED-BA0D-909A07ADBD7F}|Insurance.BuisnessLayer.csproj|solutionrelative:service\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Util\\DBConnection.cs",
+              "RelativeToolTip": "Util\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:32:23.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolicyAlreadyExistException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\PolicyAlreadyExistException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyAlreadyExistException.cs",
+              "RelativeToolTip": "Exceptions\\PolicyAlreadyExistException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:27:36.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "InsuranceRepository.cs",
               "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
               "RelativeDocumentMoniker": "Repository\\InsuranceRepository.cs",
               "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Repository\\InsuranceRepository.cs",
               "RelativeToolTip": "Repository\\InsuranceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T06:23:30.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "InvalidInputException.cs",
               "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\InvalidInputException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidInputException.cs",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PolicyNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\Insurance.BuisnessLayer\\Exceptions\\PolicyNotFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\PolicyNotFoundException.cs",

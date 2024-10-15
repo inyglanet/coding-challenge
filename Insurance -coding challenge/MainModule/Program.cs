@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using Insurance.Entity;
 using Insurance.BuisnessLayer;
+using System.Data.Common;
 
 namespace MainModule
 {
@@ -14,6 +15,8 @@ namespace MainModule
         static void Main(string[] args)
         {
             IInsuranceService insuranceService = new InsuranceRepository();
+            using var dbconnection = new DBConnection() ;
+
             bool running = true;
 
             while (running)
@@ -32,6 +35,7 @@ namespace MainModule
                 switch (choice)
                 {
                     case "1":
+                       
                         // Create Policy
                         Policy newPolicy = new Policy();
                         Console.Write("Enter Policy ID: ");

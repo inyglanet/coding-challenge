@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using Insurance.Entity;
 
 
 namespace Insurance.BuisnessLayer.Util
@@ -18,6 +19,21 @@ namespace Insurance.BuisnessLayer.Util
             connectionString = connection.ConnectionString;
             connection.Open();
             return connection;
+        }
+
+        internal void Add(Policy policy)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal Policy Find(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void Remove(Policy policy)
+        {
+            throw new NotImplementedException();
         }
     }
 }

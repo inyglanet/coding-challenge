@@ -6,27 +6,28 @@ using System.Threading.Tasks;
 using Insurance.BuisnessLayer.Service;
 using Insurance.Entity;
 using Insurance.BuisnessLayer.Exceptions;
+using Insurance.BuisnessLayer.Util;
 
 namespace Insurance.BuisnessLayer.Repository
 {
     public class InsuranceRepository : IInsuranceService
     {
-        private readonly List<Policy> policyDatabase = new List<Policy>();
+        private readonly DBConnection dBConnection;
 
         public bool CreatePolicy(Policy policy)
         {
-            if (GetPolicy(policy.PolicyId) != null)
+            if (GetPolicy(dBConnection.PolicyId) != null)
             {
                 throw new PolicyAlreadyExistException($"Policy with ID {policy.PolicyId} already exists.");
             }
 
-            policyDatabase.Add(policy);
-            return true; // Successfully added the policy
+            dBConnection.Add(policy);
+            return true;
         }
 
         public Policy GetPolicy(string policyId)
         {
-            var policy = policyDatabase.Find(p => p.PolicyId == policyId);
+            var policy = dBConnection.Find(p => p.PolicyId == policyId);
             if (policy == null)
             {
                 throw new PolicyNotFoundException($"Policy with ID {policyId} not found.");
@@ -36,21 +37,22 @@ namespace Insurance.BuisnessLayer.Repository
 
         public IEnumerable<Policy> GetAllPolicies()
         {
-            return policyDatabase;
+            return (IEnumerable<Policy>)dBConnection;
         }
 
         public bool UpdatePolicy(Policy updatedPolicy)
         {
-            var existingPolicy = GetPolicy(updatedPolicy.PolicyId);
+            var existingPolicy;
+            existingPolicy.PolicyId=updatedPolicy.PolicyId;
             existingPolicy.PolicyName = updatedPolicy.PolicyName;
-            existingPolicy.PremiumAmount = updatedPolicy.PremiumAmount;
+            existingPolicy.Amount = updatedPolicy.Amount;
             return true; 
         }
 
         public bool DeletePolicy(string policyId)
         {
             var policy = GetPolicy(policyId);
-            policyDatabase.Remove(policy);
+            dBConnection.Remove(policy);
             return true;
         }
     }

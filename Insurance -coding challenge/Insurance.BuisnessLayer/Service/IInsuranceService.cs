@@ -10,9 +10,9 @@ namespace Insurance.BuisnessLayer.Service
     public interface IInsuranceService
     {
         bool CreatePolicy(Policy policy);
-        Policy GetPolicy(string policyId);
+        Policy GetPolicy(int policyId);
         IEnumerable<Policy> GetAllPolicies();
         bool UpdatePolicy(Policy policy);
-        bool DeletePolicy(string policyId);
+        bool DeletePolicy(int policyId);
     }
 }
